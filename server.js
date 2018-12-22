@@ -13,7 +13,7 @@ var connection = mysql.createConnection({
     port: 8889,
     user: "root",
     password: "root",
-    database: "JawsDB"
+    database: "friends_db"
   });
 
 // require("./app/routing/apiRoutes")(app);

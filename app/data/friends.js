@@ -2,22 +2,22 @@ var server = require("../../server");
 
 
 var friends = [
-    {
-  "name":"Ahmed",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-  "scores":[
-      5,
-      1,
-      4,
-      4,
-      5,
-      1,
-      2,
-      5,
-      4,
-      1
-    ]
-    },
+    // {
+  // "name":"Ahmed",
+  // "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  // "scores":[
+  //     5,
+  //     1,
+  //     4,
+  //     4,
+  //     5,
+  //     1,
+  //     2,
+  //     5,
+  //     4,
+  //     1
+  //   ]
+  //   },
     {
         "name":"Jerry",
         "photo":"https://vignette.wikia.nocookie.net/characters/images/7/73/Jerry_561_b.jpg/revision/latest?cb=20151124041404",
